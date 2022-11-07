@@ -1,4 +1,4 @@
-# Projeto: Inventário React & Python
+# Projeto: Inventário WebAPI
 
 <div align="center" id="indice">
   <a href="#sobre">Sobre o Projeto ℹ️</a>&nbsp;&nbsp;&nbsp;
